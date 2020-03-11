@@ -12,6 +12,10 @@ button:focus {
 body {
   font: 16px Helvetica, Arial;
 }
+/* 
+#root {
+  max-width: 700px;
+} */
 #sendform {
   background: white;
   padding: 5px;
