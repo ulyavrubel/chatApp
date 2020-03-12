@@ -10,6 +10,7 @@
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
     "react-scripts": "3.4.0",
+    "react-scroll": "^1.7.16",
     "use-immer": "^0.3.5",
     "use-socket.io-client": "^1.0.4"
   },
